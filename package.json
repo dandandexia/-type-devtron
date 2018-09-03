@@ -1,0 +1,24 @@
+{
+  "name": "type-devtron",
+  "version": "1.0.1",
+  "description": "TypeScript typings of devtron",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandandexia/-type-devtron.git"
+  },
+  "keywords": [
+    "electron",
+    "devtron"
+  ],
+  "author": "matt.liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandandexia/-type-devtron/issues"
+  },
+  "homepage": "https://github.com/dandandexia/-type-devtron#readme"
+}
